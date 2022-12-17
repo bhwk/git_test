@@ -1,3 +1,3 @@
 # git_test
-first repo \n
+first repo  
 hello odin
